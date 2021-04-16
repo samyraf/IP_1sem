@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe01",
+            "request": "launch",
+            "mainClass": "exe01",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe02",
+            "request": "launch",
+            "mainClass": "exe02",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe03",
+            "request": "launch",
+            "mainClass": "exe03",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe04",
+            "request": "launch",
+            "mainClass": "exe04",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe05",
+            "request": "launch",
+            "mainClass": "exe05",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe06",
+            "request": "launch",
+            "mainClass": "exe06",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe07",
+            "request": "launch",
+            "mainClass": "exe07",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe08",
+            "request": "launch",
+            "mainClass": "exe08",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe09",
+            "request": "launch",
+            "mainClass": "exe09",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe10",
+            "request": "launch",
+            "mainClass": "exe10",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe11",
+            "request": "launch",
+            "mainClass": "exe11",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe12",
+            "request": "launch",
+            "mainClass": "exe12",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe13",
+            "request": "launch",
+            "mainClass": "exe13",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe14",
+            "request": "launch",
+            "mainClass": "exe14",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe15",
+            "request": "launch",
+            "mainClass": "exe15",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe16",
+            "request": "launch",
+            "mainClass": "exe16",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe17",
+            "request": "launch",
+            "mainClass": "exe17",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe18",
+            "request": "launch",
+            "mainClass": "exe18",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe19",
+            "request": "launch",
+            "mainClass": "exe19",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe20",
+            "request": "launch",
+            "mainClass": "exe20",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe21",
+            "request": "launch",
+            "mainClass": "exe21",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe22",
+            "request": "launch",
+            "mainClass": "exe22",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe23",
+            "request": "launch",
+            "mainClass": "exe23",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe24",
+            "request": "launch",
+            "mainClass": "exe24",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe25",
+            "request": "launch",
+            "mainClass": "exe25",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe26",
+            "request": "launch",
+            "mainClass": "exe26",
+            "projectName": "unidade_4_b5606b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch exe27",
+            "request": "launch",
+            "mainClass": "exe27",
+            "projectName": "unidade_4_b5606b5"
+        }
+    ]
+}
